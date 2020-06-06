@@ -1,1 +1,1 @@
-# About-Climate-Impact-Map
+About the Climate Impact Map
