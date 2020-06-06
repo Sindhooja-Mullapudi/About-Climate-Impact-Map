@@ -3,10 +3,10 @@
 For this final essay, the digital geography related project I have decided to analyze and write about is a web map that has been developed by the [Climate Impact Lab](http://www.impactlab.org/). The Climate Impact Lab uses a data-driven and evidence-based approach to quantify the impacts of climate change. They are a team of economists, climate scientists, data engineers, and risk analysts who are essentially creating the world’s most comprehensive research on the impacts of climate change that will help the public and decision makers to understand the risks and create policies that help lessen the impacts of climate change. 
 
 polygon
-![](Images/Screen Shot 2020-06-05 at 9.33.33 PM.png)
+![](polygon.png)
 
 
-![](Images/Screen Shot 2020-06-05 at 9.34.18 PM.png)
+![](map1.png)
 
 
 The map that I am focusing this essay on from the Climate Impact Lab, is the [Climate Impact Map](http://www.impactlab.org/map/#usmeas=absolute&usyear=2020-2039&gmeas=absolute&gyear=2080-2099&tab=united-states&usprob=0.95&usrcp=rcp85). The goal of this map is to show a choropleth map of the average temperatures of each state (and within each state – there is more aggregation). Some of the main functions are being able to choose which version of the map the audience wants to see and being able to choose either viewing the United States Map or the Global Map. 
