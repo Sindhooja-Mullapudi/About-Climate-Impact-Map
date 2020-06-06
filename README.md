@@ -3,15 +3,7 @@
 For this final essay, the digital geography related project I have decided to analyze and write about is a web map that has been developed by the [Climate Impact Lab](http://www.impactlab.org/). The Climate Impact Lab uses a data-driven and evidence-based approach to quantify the impacts of climate change. They are a team of economists, climate scientists, data engineers, and risk analysts who are essentially creating the world’s most comprehensive research on the impacts of climate change that will help the public and decision makers to understand the risks and create policies that help lessen the impacts of climate change. 
 
 
-
-
 ![](map1.png)
-
-![](map2.png)
-
-![](map3.png)
-
-
 
 
 The map that I am focusing this essay on from the Climate Impact Lab, is the [Climate Impact Map](http://www.impactlab.org/map/#usmeas=absolute&usyear=2020-2039&gmeas=absolute&gyear=2080-2099&tab=united-states&usprob=0.95&usrcp=rcp85). The goal of this map is to show a choropleth map of the average temperatures of each state (and within each state – there is more aggregation). Some of the main functions are being able to choose which version of the map the audience wants to see and being able to choose either viewing the United States Map or the Global Map. 
@@ -40,9 +32,18 @@ The Climate Impact Lab has members from University of California Berkeley, the E
 > As for interactive features, there are quite a few. For starters, if the mouse is moves along the map, each state is shown as a pop up with the average temperature of the state. In the Global Map, this is the same, but each country is shown up as a popup with the average temperature, rather than each state. There is a choice to zoom in or out of the maps. There is a choice to either see the temperatures in Fahrenheit or Celsius (making the map more globally accessible and understandable). And as stated above, the viewer can choose which years (4 options) they want to view the map in, they can choose the months, they can choose the amount of emissions they wanted to see projected, and they can choose the probability of that happening. 
 As for the web map elements there is a title for the map and a legend that goes from red to blue (red being hotter and blue being cooler).
 
+
+![](map3.png)
+
+
+
 > The strengths of this project are that it is a very informative project, and it is very well and aesthetically displayed. The creators have the methodology under the map, for the audience to click and read how they approached these projections, and they have the data there for anyone to download and use. What I found fascinating about this map is that, it not only shows how the world used to be (in regard to climate change), but it also projects how the world will get towards the end of the century. And I believe these are extremely accurate projections. Another strength is the amount of interactivity this map offers the audience. We can play around with what we see, whether it’s the map of the United States or the Global Map. A weakness I see in this project is that it does not show the projections of the past ten years. There is no map that shows what happened between 2010 and 2020, and this is a little surprising to me because I truly believe these past ten years really worsened the impacts of climate change. Especially with how the government and the regulations have been for the past four years. Another weakness of this map is not having the authors or creators near the map. I could not find who created the map, I guess it was assumed that the Climate Impact Lab created it, rather than specific people. Other than those two weaknesses, I do not see much wrong or things that need to be heavily fixed in this map. 
 
 > It is interesting to see how the average temperatures change depending on what region you live in (in both the United States Map and the Global Map). When we see the United States Map, we can see that a lot of the East Coast has higher average temperatures whereas the West Coast has lower temperatures comparatively. Though some might argue that it is because West Coast is significantly cooler than the East Coast, there are states like California that are shown cooler. This can be probably because of the digital divide as well as the types of government. States like Texas and Florida (which are recently known as republican states) show high temperatures, whereas Democratic States such as Washington, Oregon, California, and New York show cooler average temperatures. Democratic states tend me be more climate conscious, where are Republican states tend to not believe or care in the impacts of climate change. 
+
+
+![](map2.png)
+
 
 > Similar trend can also be seen in the Global Map, more developed countries tend to show cooler temperatures, where are third world or developing countries have hotter temperatures. This can show the impacts of industrialization and the digital divide. 
 
