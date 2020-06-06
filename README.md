@@ -2,11 +2,16 @@
 
 For this final essay, the digital geography related project I have decided to analyze and write about is a web map that has been developed by the [Climate Impact Lab](http://www.impactlab.org/). The Climate Impact Lab uses a data-driven and evidence-based approach to quantify the impacts of climate change. They are a team of economists, climate scientists, data engineers, and risk analysts who are essentially creating the world’s most comprehensive research on the impacts of climate change that will help the public and decision makers to understand the risks and create policies that help lessen the impacts of climate change. 
 
-polygon
-![](polygon.png)
+
 
 
 ![](map1.png)
+
+![](map2.png)
+
+![](map3.png)
+
+
 
 
 The map that I am focusing this essay on from the Climate Impact Lab, is the [Climate Impact Map](http://www.impactlab.org/map/#usmeas=absolute&usyear=2020-2039&gmeas=absolute&gyear=2080-2099&tab=united-states&usprob=0.95&usrcp=rcp85). The goal of this map is to show a choropleth map of the average temperatures of each state (and within each state – there is more aggregation). Some of the main functions are being able to choose which version of the map the audience wants to see and being able to choose either viewing the United States Map or the Global Map. 
@@ -19,6 +24,10 @@ The Climate Impact Lab has members from University of California Berkeley, the E
 > The site that hosts the map, among other information, is created by constreuctive.co. The client is my browser. The data is taken and analyzed through multiple models that are made by the climate modeling teams the Climate Impact Lab comprises of.  The data is later stored and easily accessible (as an open source form) on the web page, itself, as an excel sheet. The website also does not only comprise of this one map, it has multiple tabs (this map is one of those tabs). The map (both base and layers) is built through Climate Impact Lab, itself.  
 
 > After inspecting the code, I found some really interesting aspects that are being used to make this website. Firstly, HTML, CSS, and JavaScript are being used on the front end. And I can see that depending on each average result, certain color coordinates are being given to make the map a choropleth map. They are also using Amazon AWS to download something called Mailchimp. On further research, I learned that Mailchimp is a marketing platform for small businesses who are looking to grow. In the code, there a multiple polygon points that are made to fill with certain colors. But almost every source URLs are from the Impact Lab, itself. 
+
+
+![](polygon.png)
+
 
 > Though I could not access the index.html file for whatever reason, it was there. They were also using bootstrap, specifically for fonts. And this project does support responsive design, meaning the web design does make the web pages render well to different devices, windows, and screen sizes. 
 
